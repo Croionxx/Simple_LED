@@ -3,7 +3,9 @@
 
 Using KiCad a basic circuit of a led with pinout for connection with dupont connectors was created. 
 
-![alt text](3d-view.png|300)
+
+![3d-view-image|300](3d-view.png)
+
 
 This was a simple project just to test out the software and learn its niches. 
 
@@ -12,8 +14,7 @@ Creating the ground layer was especially challenging. This was mainly due to the
 The final size of board is 9.1mm x 6.9mm 
 
 
-![[Week-1 Brief summary-20250519105809441.webp|400]]
-
+![top-layer](top-layer.png)
 
 
 
